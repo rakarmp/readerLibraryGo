@@ -21,7 +21,7 @@ func WebsiteReader(URL string) *WebsiteUrl {
 }
 
 func main() {
-	reader := WebsiteReader("https://github.com/rakarmp/astro-shadcn-ui")
+	reader := WebsiteReader("URL IN HERE!")
 
 	data := make([]byte, 1024)
 
