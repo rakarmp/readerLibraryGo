@@ -2,7 +2,10 @@
 
 Web Reader To Get Data Website
 
-**Write Pure Go**
+```
+Write Pure Go
+Go Version 1.21.0
+```
 
 ### Use
 
